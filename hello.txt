@@ -28,3 +28,4 @@ final test 01
 other manmber edit test
 China i love you
 laji
+这是github&gitee测试
